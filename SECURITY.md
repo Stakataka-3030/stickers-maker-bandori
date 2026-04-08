@@ -1,4 +1,9 @@
-# 安全政策 (Security Policy)
+
+# Info
+
+我正在重写Security.md文件，但您应当清晰的理解，此Forked项目与Project Sekai企划无关，且不是SEKAI 生态的一部分。请勿将此项目与上述企划混淆。
+
+<!-- # 安全政策 (Security Policy)
 
 ## 🔒 支持的版本
 
@@ -128,4 +133,4 @@ XSS (跨站脚本攻击)
 
 Made with 💜 by the [25-ji-code-de](https://github.com/25-ji-code-de) team
 
-</div>
+</div> -->

@@ -1,4 +1,8 @@
+
+# BanG Stick Creator - BanG Dream!贴纸生成器 临时指南
+
 正在开发中/In Develop
+
 目前不可使用。
 
 该项目修改自Pjsk版本的贴纸生成器。
